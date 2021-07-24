@@ -267,3 +267,9 @@ __pycache__/
 *.zip
 transit/
 SampleData/
+
+# azurite
+__azurite_db*.*
+
+# __blobstorage
+__blobstorage__/
